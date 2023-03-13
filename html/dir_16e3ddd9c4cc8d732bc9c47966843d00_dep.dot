@@ -1,0 +1,11 @@
+digraph "UAS PAW No.2/obj/Debug/net6.0"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_4f31caab7046ea3a8479d7bc2f2ffbea {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="Debug", fontname="Helvetica", fontsize="10", URL="dir_4f31caab7046ea3a8479d7bc2f2ffbea.html"]
+  dir_16e3ddd9c4cc8d732bc9c47966843d00 [shape=box, label="net6.0", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_16e3ddd9c4cc8d732bc9c47966843d00.html"];
+  }
+}

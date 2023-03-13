@@ -1,0 +1,18 @@
+========================================
+============ NOTA PEMBAYARAN ===========
+========================================
+Nama Barang Yang Dibeli
+1. Kue Pie 12000
+========================================
+Total Harga           : Rp12000
+Tunai                 : Rp20000
+Kembalian             : Rp8000
+
+
+Nama Pelanggan : fra
+Tanggal Transaksi :2022-06-25
+Jam Transaksi :18:09:27
+=======================================
+     Nama Kasir : Thariq Azhar  
+     Terima Kasih Telah Memesan :)     
+=======================================
